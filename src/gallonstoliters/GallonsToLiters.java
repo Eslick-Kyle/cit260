@@ -1,5 +1,4 @@
 package gallonstoliters;
-
 /*
  * @author Kyle
  */
@@ -12,7 +11,5 @@ public class GallonsToLiters {
         liters = gallons * 3.7854;
         
         System.out.println(gallons + " gallons is " + liters + " liters.");
-        
     }
-    
 }
